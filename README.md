@@ -1,56 +1,56 @@
-# 🚀 Machine Learning Internship Projects - Cognifyz
+#  Machine Learning Internship Projects - Cognifyz
 
-## 📌 Overview
+##  Overview
 This repository showcases the projects I completed during my **Machine Learning Internship at Cognifyz Technologies**.  
 The internship focused on applying machine learning techniques to real-world datasets and building end-to-end solutions.
 
 ---
 
-## 💼 Internship Details
+##  Internship Details
 - **Role:** Machine Learning Intern  
 - **Organization:** Cognifyz Technologies  
 - **Duration:** Feb 2026 – Mar 2026  
 
 ---
 
-## 🚀 Projects
+##  Projects
 
-### 1️⃣ Restaurant Rating Prediction
+### 1️ Restaurant Rating Prediction
 - Built a regression model to predict restaurant ratings  
 - Performed data preprocessing and feature engineering  
 - Evaluated using metrics like MSE and R²  
 
 ---
 
-### 2️⃣ Restaurant Recommendation System
+### 2️ Restaurant Recommendation System
 - Implemented a **content-based filtering** approach  
 - Recommended restaurants based on user preferences  
 - Improved personalization using feature similarity  
 
 ---
 
-### 3️⃣ Cuisine Classification
+### 3️ Cuisine Classification
 - Developed a classification model to categorize cuisines  
 - Used machine learning algorithms like Logistic Regression / Random Forest  
 - Evaluated using accuracy, precision, and recall  
 
 ---
 
-### 4️⃣ Location-Based Analysis
+### 4️ Location-Based Analysis
 - Performed geographical analysis of restaurant data  
 - Visualized restaurant distribution using maps  
 - Identified patterns across cities and locations  
 
 ---
 
-## 📸 Sample Output
+##  Sample Output
 
-### 🌍 Restaurant Location Map
+###  Restaurant Location Map
 ![Map Visualization](outputs/Task4%20output/Figure_1.png)
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 - Python  
 - Pandas  
 - NumPy  
@@ -60,7 +60,7 @@ The internship focused on applying machine learning techniques to real-world dat
 
 ---
 
-## 📊 Key Learnings
+##  Key Learnings
 - Data preprocessing and feature engineering  
 - Regression and classification modeling  
 - Recommendation system design  
@@ -69,7 +69,7 @@ The internship focused on applying machine learning techniques to real-world dat
 
 ---
 
-## ▶️ How to Run
+##  How to Run
 
 ```bash
 # Clone the repository
